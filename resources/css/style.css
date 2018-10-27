@@ -12,3 +12,23 @@ h1 {
   color: white;
   text-align: center;
 }
+
+h2 {
+  font-size: 40px;
+  font-weight: 300;
+
+}
+
+p {
+  font-size: 21px;
+  font-color: gray;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#copyright {
+  text-align: right;
+}
